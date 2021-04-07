@@ -1,5 +1,5 @@
 import pytest
-import pythontemplate.moduleone
+import vesselregistration.moduleone
 
 def test_hello():
-    pythontemplate.moduleone.print_hello("Vlkoslav")
+    vesselregistration.moduleone.print_hello("Vlkoslav")
